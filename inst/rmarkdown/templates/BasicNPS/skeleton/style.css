@@ -1,0 +1,18 @@
+header{
+  width: 100%;
+  margin: 0;
+}
+
+body{
+  font-family: Frutiger;
+  font-size: 16pt;
+  margin: auto;
+}
+
+#TOC {
+  position: fixed;
+  top: 25%;
+  left: 1%;
+  width: auto;
+  overflow:auto;
+}

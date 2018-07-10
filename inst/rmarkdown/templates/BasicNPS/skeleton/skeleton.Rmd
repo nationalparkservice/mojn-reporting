@@ -1,0 +1,25 @@
+---
+author:
+title:
+output:
+  html_document:
+    css: style.css
+    includes:
+      in_header: mojn-header.html
+    number_sections: no
+    theme: journal
+    toc: yes
+    toc_float:
+      collapsed: yes
+---
+
+# Introduction
+
+
+# Analysis
+
+
+# Conclusion
+
+
+# References
