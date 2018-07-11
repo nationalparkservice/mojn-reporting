@@ -26,8 +26,10 @@ knitr::opts_chunk$set(echo = FALSE,
                       rownames.print = FALSE,
                       rows.print = 15,
                       cols.print = 12)
-
-
+library(tidyverse)
+library(plotly)
+library(leaflet)
+library(RODBC)
 ```
 
 ## Introduction
